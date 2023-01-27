@@ -13,7 +13,6 @@ createApp({
                 console.log(response.data);
                 this.discList = response.data;
             })
-
         }
     },
     created() {
